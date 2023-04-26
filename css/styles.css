@@ -1,0 +1,74 @@
+body {
+    background-color: white;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.paginaentera {
+    height: 100vh;
+    width: 100vw;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+.cabecera {
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100vw;
+    height: 7%;
+
+}
+.netflix {
+    display: flex;
+    height: 120%;
+    margin-left: 2.3%;
+    margin-top: 0.6%;
+}
+
+.espacio {
+    display: flex;
+    width: 10%;
+}
+
+.inicio {
+    display: flex;
+    color: white;
+    margin-left: -7%;
+    font-weight: bold;
+    font-size: 120%;
+}
+
+.series {
+    display: flex;
+    color: white;
+    margin-left: 2%;
+    font-size: 120%;
+
+}
+
+.peliculas {
+    display: flex;
+    color: white;
+    margin-left: 2%;
+    font-size: 120%;
+}
+
+.novedades {
+    display: flex;
+    color: white;
+    margin-left: 2%;
+    font-size: 120%;
+
+}
+
+.lista {
+    display: flex;
+    color: white;
+    margin-left: 2%;
+    font-size: 120%;
+}
+
